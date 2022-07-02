@@ -1,3 +1,1 @@
-Create AXI4 register maps for your FPGA or ASIC project in the browser and download the generated code.
-
-Sign-up for free at [airhdl.com](https://airhdl.com).
+A web-based VHDL/SystemVerilog AXI4 register bank generator for FPGA and ASIC projects. Sign-up for free at [airhdl.com](https://airhdl.com).
